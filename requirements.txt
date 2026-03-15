@@ -1,0 +1,3 @@
+opencom-rpc
+dbus_next
+winsdk
