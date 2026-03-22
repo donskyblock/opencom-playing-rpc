@@ -39,7 +39,7 @@ SRC_DIR = Path(__file__).resolve().parent / "src"
 if SRC_DIR.exists():
     sys.path.insert(0, str(SRC_DIR))
 
-from opencom-rpc import (
+from opencom_rpc import (
     Activity,
     ActivityButton,
     DEFAULT_MEDIA_POLL_SECONDS,
